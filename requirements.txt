@@ -1,2 +1,6 @@
 pandas
-flask
+matplotlib
+seaborn
+plotly
+streamlit
+joblib
